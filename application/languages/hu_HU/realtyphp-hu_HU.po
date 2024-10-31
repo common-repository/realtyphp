@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RealtyPHP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-13 10:53+0100\n"
+"PO-Revision-Date: 2012-12-13 11:00+0100\n"
+"Last-Translator: Horváth Előd <hoelod@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /var/www/repos/wordpress1/wp-content/plugins/realtyphp\n"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/lib/Backend.php:71
+msgid "All listings"
+msgstr "Összes ingatlan"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/lib/Backend.php:71
+msgid "My listings"
+msgstr "Lista"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/lib/Backend.php:80
+msgid "Add new"
+msgstr "Új hozzáadása"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/lib/Backend.php:83
+msgid "Settings"
+msgstr "Beállítások"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/lib/All_Listings_Admin.php:75
+msgid "ID"
+msgstr "ID"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/lib/All_Listings_Admin.php:76
+msgid "User"
+msgstr "Felhasználó"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/lib/All_Listings_Admin.php:77
+msgid "Offer"
+msgstr "Ajánlat"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/lib/All_Listings_Admin.php:78
+msgid "Type"
+msgstr "Típus"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/lib/All_Listings_Admin.php:79
+msgid "Title"
+msgstr "Cím"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/lib/All_Listings_Admin.php:80
+msgid "Location"
+msgstr "Elhelyezkedés"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/lib/All_Listings_Admin.php:81
+msgid "Area"
+msgstr "Alapterület"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/lib/All_Listings_Admin.php:82
+msgid "Price"
+msgstr "Ár"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/lib/All_Listings_Admin.php:137
+msgid "Edit"
+msgstr "Módosít"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/lib/All_Listings_Admin.php:139
+msgid "Delete"
+msgstr "Töröl"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/lib/All_Listings_Admin.php:171
+msgid "Delete selected"
+msgstr "Kiválasztott törlése"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/lib/All_Listings_Admin.php:184
+msgid "Items deleted!"
+msgstr "Tételek törölve!"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Listings.php:40
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Settings.php:15
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Settings.php:99
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Frontend.php:119
+msgid " is required!"
+msgstr "kötelező!"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Listings.php:41
+msgid "Description"
+msgstr "Leírás"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Listings.php:41
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Listings.php:42
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Listings.php:44
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Listings.php:46
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Listings.php:47
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Listings.php:48
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Listings.php:49
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Frontend.php:121
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/controllers/Realtyphp_settings.php:34
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/controllers/Realtyphp_settings.php:128
+msgid "is required!"
+msgstr "kötelező!"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Listings.php:43
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Listings.php:45
+msgid "must be numeric!"
+msgstr "szám kell hogy legyen!"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Listings.php:44
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Listings.php:45
+msgid "Area size"
+msgstr "Alapterület"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Listings.php:46
+msgid "City"
+msgstr "Város"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Listings.php:47
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Settings.php:15
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/controllers/Realtyphp_settings.php:34
+msgid "Country"
+msgstr "Ország"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Listings.php:48
+msgid "Contact name"
+msgstr "Kontakt személy"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Listings.php:49
+msgid "Contact phone"
+msgstr "Kontakt tel."
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Settings.php:99
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/controllers/Realtyphp_settings.php:128
+msgid "Property type"
+msgstr "Ingatlan típusa"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Frontend.php:119
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Frontend.php:120
+msgid "Subject"
+msgstr "Tárgy"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Frontend.php:120
+msgid " is too long(max. 50 character)!"
+msgstr "túl hosszú(max. 50 character)!"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Frontend.php:121
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Frontend.php:122
+msgid "Message"
+msgstr "Üzenet"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/models/MRealtyphp_Frontend.php:122
+msgid " is too long(max. 300 character)!"
+msgstr "túl hosszú(max. 300 character)!"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/controllers/Realtyphp_frontend.php:69
+msgid "Mail sent"
+msgstr "Email elküldve"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/controllers/Realtyphp_listings.php:50
+msgid "Item is saved. You must min. 1 photo upload!"
+msgstr "Tétel elmentve. Minimum 1 képet fel kell töltenie!"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/controllers/Realtyphp_listings.php:229
+msgid "File uploaded: "
+msgstr "File feltöltve:"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_settings/countries.php:7
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_settings/index.php:5
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_settings/property_types.php:7
+msgid "Countries"
+msgstr "Országok"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_settings/countries.php:8
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_settings/index.php:6
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_settings/property_types.php:8
+msgid "Property types"
+msgstr "Ingatlan típusok"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_settings/countries.php:29
+msgid "List of countries"
+msgstr "Országok listája"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_settings/countries.php:31
+msgid "Click to + for states/provinces."
+msgstr "Klikk a + jelre a megyék/provinciák listájához."
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_settings/index.php:9
+msgid "You can add and manage countries and property types."
+msgstr "Ingatlan típusokat tud hozzáadni és kezelni."
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_settings/a_stpr.php:15
+msgid "State/province"
+msgstr "Megye/Provincia"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_settings/property_types.php:29
+msgid "List of property types"
+msgstr "Ingatlan típusok listája"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_frontend/index.php:7
+msgid "For sale"
+msgstr "Eladó"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_frontend/index.php:8
+msgid "Rent"
+msgstr "Kiadó"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_frontend/index.php:19
+msgid "Area size max."
+msgstr "Alapterület nagysága max."
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_frontend/index.php:20
+msgid "Price max."
+msgstr "Max. ár"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_frontend/index.php:21
+msgid "Search"
+msgstr "Keresés"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_frontend/view.php:1
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/update.php:5
+msgid "Back"
+msgstr "Vissza"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_frontend/view.php:34
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/create.php:121
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/update.php:135
+msgid "Nr. rooms"
+msgstr "Szobák száma"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_frontend/view.php:47
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/create.php:186
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/update.php:202
+msgid "Contact email"
+msgstr "Kontakt email"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_frontend/view.php:56
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/update.php:243
+msgid "Date added"
+msgstr "Felvitel dátuma"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_frontend/view.php:60
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/update.php:252
+msgid "Last updated"
+msgstr "Utoljára módosítva"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_frontend/view.php:91
+msgid "Send"
+msgstr "Küldés"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_admin_home/index.php:3
+msgid "Realtyphp for Wordpress"
+msgstr "Realtyphp for Wordpress"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_admin_home/index.php:6
+msgid "Overview"
+msgstr "Áttekintés"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_admin_home/index.php:7
+msgid "Welcome to Realtyphp. Realtyphp is a real estate listing plugin for Wordpress."
+msgstr "Köszönöm, hogy kipróbálod a Realtyphpt. A Realtyphp for Wordpress egy  ingatlan nyilvántartó plugin  a Wordpress számára."
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_admin_home/index.php:11
+msgid "License"
+msgstr "Licensz"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_admin_home/index.php:12
+msgid "Realtyphp licensed under"
+msgstr "A Realtyphp a következő licenszet használja:"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_admin_home/index.php:17
+msgid "Download"
+msgstr "Letöltés"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_admin_home/index.php:18
+msgid "You can download the latest version from"
+msgstr "A legfrisebb verzió letölthető a következő honlapról:"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_admin_home/index.php:27
+msgid "Developer"
+msgstr "Fejlesztő"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_admin_home/index.php:37
+msgid "Support"
+msgstr "Támogatás"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_admin_home/index.php:38
+msgid "For support please contact me:"
+msgstr "Támogatásért kérem lépjen kapcsolatba velem a honlapomon:"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/a_uploaded_photos.php:8
+msgid "You must min. 1 photo upload!"
+msgstr "Minimum 1 képet fel kell töltenie!"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/create.php:3
+msgid "Add listing"
+msgstr "Ingatlan hozzáadása"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/create.php:10
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/update.php:19
+msgid "Photo upload"
+msgstr "Kép feltöltése"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/create.php:13
+msgid "Photos can be uploaded once the listing is added. You must min. 1 photo upload!"
+msgstr "Képeket csak az ingatlan felvitele után tud hozzáadni! 1 db képet mindenképp fel kell töltenie!"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/create.php:29
+msgid "Go to Photo upload"
+msgstr "Tovább a képfeltöltéshez"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/create.php:131
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/update.php:146
+msgid "Zip"
+msgstr "Irányítószám"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/create.php:197
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/update.php:213
+msgid "Contact Phone"
+msgstr "Kontakt tel."
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/create.php:209
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/update.php:224
+msgid "Contact display"
+msgstr "Kontakt megjelenítése"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/create.php:213
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/update.php:229
+msgid "Display contact form"
+msgstr "Kontakt űrlap megjelenítése"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/create.php:214
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/update.php:231
+msgid "Display contact information"
+msgstr "Kontakt infók megjelenítése"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/create.php:215
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/update.php:233
+msgid "Do not display"
+msgstr "Ne jelenjen meg semmi"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/create.php:216
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/update.php:235
+msgid "Display both"
+msgstr "Minden megjelenhet"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/create.php:224
+msgid "Submit"
+msgstr "Elküld"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/index.php:3
+msgid "Listings"
+msgstr "Lista"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/index.php:8
+msgid "search by ID"
+msgstr "Keresés ID alapján"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/a_stpr.php:2
+msgid "State/Province"
+msgstr "Megye/Provincia"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/upload_photo.php:3
+msgid "Upload photo for item nr.:"
+msgstr "Kép feltöltése a köv. számú tétel számára:"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/upload_photo.php:10
+msgid "Go to item"
+msgstr "Tovább a tételhez"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/update.php:3
+#, php-format
+msgid "Update listing(ID:%d)"
+msgstr "Ingatlan módosítása(ID:%d)"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/update.php:36
+msgid "Uploaded photos"
+msgstr "Feltöltött képek"
+
+#: /var/www/repos/wordpress1/wp-content/plugins/realtyphp/application/views/realtyphp_listings/update.php:261
+msgid "Update"
+msgstr "Ingatlan módosítása"
+
+#~ msgid "Contact form email"
+#~ msgstr "Email cím a kontakt űrlaphoz"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "must be a valid email address!"
+#~ msgstr "nem érvényes email cím!"
+
+#~ msgid "Offe"
+#~ msgstr "Ajánlat"

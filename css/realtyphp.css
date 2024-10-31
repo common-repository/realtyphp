@@ -1,0 +1,178 @@
+label.error
+{
+	font-size:0.8em;
+    color:#ff0000;
+}
+
+div #textarea_error
+{
+    font-size:0.8em;
+    color:#ff0000;      
+}
+
+div .rp_message_error
+{
+    font-size:0.8em;
+    color:#ff0000;      
+}
+
+div .rp_message_updated
+{
+    font-size:0.8em;
+    color:#1b9724;      
+}
+
+.span_country
+{ 
+    font-weight:bold;
+    cursor: pointer;
+}
+
+.list_state_province
+{ 
+    position: relative; left:20px;
+    font-size: 0.9em;	
+}
+
+.state_province_left
+{ 
+	float:left;
+	width:120px;
+}
+
+.state_province_right
+{ 
+	float:left;	
+}
+
+img#img_photo
+{
+    vertical-align: middle;
+}
+
+#frontend_listings
+{
+    font-size: 0.8em;       
+}
+
+#frontend_listings tr td 
+{ 
+    vertical-align: middle;	
+}
+
+#frontend_listings img 
+{ 
+    border:solid 1px #dddddd;	
+}
+
+#frontend_listing
+{
+    width:55% !important;    
+    font-size: 0.8em;
+    float:left;
+    margin-right:1% !important;
+   
+}
+
+#frontend_listing #th_left
+{ 
+    width:30%;    
+}
+
+#cont_galleria
+{ 
+    float:left;
+    width: 44% !important;   	    
+}
+
+#galleria
+{ 		
+	height: 280px; 
+	background: #000; 
+}
+
+#rp_searchbox
+{ 
+    width:auto;
+    border: solid 1px #dddddd;
+    border-radius: 5px;
+    padding: 15px;	
+    margin:0 0 20px 0;
+}
+
+#rp_searchbox div
+{ 
+   padding:3px;
+   margin:0;    
+}
+
+
+#rp_search_form label
+{ 
+    font-size: 0.8em;
+    margin-right: 2px	
+}
+
+#rp_search_form input[type='text']
+{ 
+    border-radius: 5px;
+    border:solid 1px #dddddd;	
+    font-size: 0.8em;
+}
+
+#rp_search_form select
+{ 
+    border-radius: 5px;
+    border:solid 1px #dddddd;	
+    font-size: 0.9em;
+}
+
+#rp_search_form input[type='submit']
+{ 
+    border-radius: 5px;
+    border:solid 1px #dddddd;	
+    font-size: 0.9em;
+    background: #dddddd;
+}
+
+#rp_message_div
+{ 
+   margin:20px 0 0 0;   
+   padding: 10px; 
+   background: #dddddd;  
+}
+
+#rp_message_form label
+{     
+    font-size: 0.8em;
+    color:#000000;
+}
+
+#rp_message_form textarea, #rp_message_form input[type='text']
+{ 
+    border-radius: 5px;
+    border:solid 1px #232329;	
+    font-size: 0.8em;
+}
+
+#rp_message_form input[type='submit']
+{ 
+    border-radius: 5px;
+    border:solid 1px #232329;	
+    font-size: 0.9em;
+    background: #ffffff;
+}
+
+#rp_message_form div
+{ 
+    padding: 3px 0;    
+}
+
+#div_frontend_listing
+{ 
+    width:100%;
+    padding:0; 
+    margin:0;  
+}
+
+
